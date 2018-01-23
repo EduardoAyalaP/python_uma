@@ -2,7 +2,7 @@
 
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
-El lenguaje de programación Python es usado en varias ramas científicas para análisis de datos y modelaje matemático. En este curso aprenderás a usar Python 
+El lenguaje de programación Python es usado en varias ramas científicas para análisis de datos y modelaje matemático. En este curso aprenderás a usar Python para su aplicación en tu día a día y ámbitos actuariales.
 
 
 ### Instalación
@@ -44,3 +44,4 @@ A continuación, se abre una página de internet con lo siguiente
      alt="install_anaconda"
      width=400>
 
+Este último índica que Jupyter se ha instalado correctamente.
