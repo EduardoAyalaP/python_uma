@@ -45,3 +45,7 @@ A continuación, se abre una página de internet con lo siguiente
      width=400>
 
 Este último índica que Jupyter se ha instalado correctamente.
+
+### Fuentes de consulta:
+1. [https://docs.python.org/3/](https://docs.python.org/3/)
+2. [https://www.scipy.org](https://www.scipy.org)
