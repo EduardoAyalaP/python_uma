@@ -6,9 +6,9 @@ El lenguaje de programación Python es usado en varias ramas científicas para a
 
 
 ### Instalación
- Existen varias maneras de instalar Python. Para el curso, recomendamos bajar el *Anaconda Python Distribution*. Esta contiene Python y todas las librerías que veremos a lo largo del curso. Está disponible para todos los sistemas operativos y es simple de instalar. Dirígete a [https://www.anaconda.com/download/](https://www.anaconda.com/download/#macos) y selecciona tu sistema operativo. La versión con la que estaremos trabajando será la **3.6**, por lo que es necesario que selecciones esta distribución.
- 
-Asegurate te instalar la versión correcta
+ Existen varias maneras de instalar Python. Para el curso, recomendamos bajar el *Anaconda Python Distribution*. Esta contiene Python y todas las librerías que veremos a lo largo del curso. Está disponible para todos los sistemas operativos y es simple de instalar. Dirígete a [https://www.anaconda.com/download/](https://www.anaconda.com/download/#macos) y selecciona tu sistema operativo. La versión con la que estaremos trabajando será la **3.6.x**, por lo que es necesario que selecciones esta distribución.
+
+Asegurate te instalar la versión correcta.
 
 <img src="https://i.imgur.com/BhIX58s.png"
      alt="install_anaconda"
