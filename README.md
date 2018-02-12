@@ -44,7 +44,15 @@ A continuación, se abre una página de internet con lo siguiente
      alt="install_anaconda"
      width=400>
 
-Este último índica que Jupyter se ha instalado correctamente.
+Al abrirse esta página ya podremos hacer uso de los archivos `.ipynb` (jupyter notebook). La pantalla de arriba es un explorador de los archivos de nuestra carpeta, de aquí podemos navegar a la carpeta en donde se encuentra el archivo a trabajar o podemos crear el nuestro propio.
+
+Para abrir un archivo `.ipynb` basta con hacer click al archivo sobre el cuál deseemos trabajar.
+
+<img src="https://i.imgur.com/ZypXeyd.png"
+     alt="open jupyter notebook"
+     width="800"> 
+
+Para crear un nuevo jupyter notebook, hacemos click al botón `new` en la parte superior derecha de la pantalla. Seguido de esto nos aparecerá un menú con la opción `Python 3`.
 
 ### Fuentes de consulta:
 1. [https://docs.python.org/3/](https://docs.python.org/3/)
