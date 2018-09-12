@@ -1,9 +1,4 @@
-# Introducción a Python para actuarios
-
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
-
-El lenguaje de programación Python es usado en varias ramas científicas para análisis de datos y modelaje matemático. En este curso aprenderás a usar Python para su aplicación en tu día a día y ámbitos actuariales.
-
+# Introducción a la Computación
 
 ### Instalación
  Existen varias maneras de instalar Python. Para el curso, recomendamos bajar el *Anaconda Python Distribution*. Esta contiene Python y todas las librerías que veremos a lo largo del curso. Está disponible para todos los sistemas operativos y es simple de instalar. Dirígete a [https://www.anaconda.com/download/](https://www.anaconda.com/download/#macos) y selecciona tu sistema operativo. La versión con la que estaremos trabajando será la **3.6.x**, por lo que es necesario que selecciones esta distribución.
