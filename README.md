@@ -47,7 +47,7 @@ Para abrir un archivo `.ipynb` basta con hacer click al archivo sobre el cuál d
      alt="open jupyter notebook"
      width="800"> 
 
-Para crear un nuevo jupyter notebook, hacemos click al botón `new` en la parte superior derecha de la pantalla. Seguido de esto nos aparecerá un menú con la opción `Python 3`.
+Para crear un nuevo jupyter notebook, hacemos click al botón `new` en la parte superior derecha de la pantalla. Seguido de esto nos aparecerá un menú con la opción `Python 3`. Este último paso nos abrirá una nueva ventana en donde ya podremos hacer uso de un Jupyter Notebook.
 
 ### Fuentes de consulta:
 1. [https://docs.python.org/3/](https://docs.python.org/3/)
